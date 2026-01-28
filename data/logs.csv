@@ -1,0 +1,13 @@
+event_id,raw_text
+E001,"Event E001 - Python OOP in Bengaluru on 2026-01-13 10:00 | Contact: trainer@academy.io, support@events.org | Promo: STUDENT15 | Landing UTM: utm_source=email&utm_medium=blast&promo_id=P123"
+E002,"Event E002 - Data Wrangling in Bengaluru on 2026-01-16 14:00 | Contact: trainer@academy.io, support@events.org | Promo: EARLY10 | Landing UTM: utm_source=social&utm_medium=blast&promo_id=P456"
+E003,"Event E003 - Python OOP in Bengaluru on 2026-01-19 10:00 | Contact: trainer@academy.io, support@events.org | Promo: NY25 | Landing UTM: utm_source=partner&utm_medium=blast&promo_id=P456"
+E004,"Event E004 - Python OOP in Mysuru on 2026-01-22 10:00 | Contact: trainer@academy.io, support@events.org | Promo:  | Landing UTM: utm_source=partner&utm_medium=blast&promo_id=P123"
+E005,"Event E005 - Machine Learning Essentials in Bengaluru on 2026-01-25 14:00 | Contact: trainer@academy.io, support@events.org | Promo: EARLY10 | Landing UTM: utm_source=email&utm_medium=blast&promo_id=P456"
+E006,"Event E006 - Machine Learning Essentials in Mysuru on 2026-01-28 11:00 | Contact: trainer@academy.io, support@events.org | Promo: NY25 | Landing UTM: utm_source=email&utm_medium=blast&promo_id=P789"
+E007,"Event E007 - Python OOP in Pune on 2026-01-31 11:00 | Contact: trainer@academy.io, support@events.org | Promo:  | Landing UTM: utm_source=email&utm_medium=blast&promo_id=P456"
+E008,"Event E008 - Machine Learning Essentials in Bengaluru on 2026-02-03 09:00 | Contact: trainer@academy.io, support@events.org | Promo: NY25 | Landing UTM: utm_source=social&utm_medium=blast&promo_id=P123"
+E009,"Event E009 - Python OOP in Hyderabad on 2026-02-06 10:00 | Contact: trainer@academy.io, support@events.org | Promo: EARLY10 | Landing UTM: utm_source=email&utm_medium=blast&promo_id=P456"
+E010,"Event E010 - Python OOP in Bengaluru on 2026-02-09 11:00 | Contact: trainer@academy.io, support@events.org | Promo:  | Landing UTM: utm_source=email&utm_medium=blast&promo_id=P123"
+E011,"Event E011 - Data Wrangling in Bengaluru on 2026-02-12 11:00 | Contact: trainer@academy.io, support@events.org | Promo:  | Landing UTM: utm_source=partner&utm_medium=blast&promo_id=P789"
+E012,"Event E012 - Machine Learning Essentials in Mysuru on 2026-02-15 11:00 | Contact: trainer@academy.io, support@events.org | Promo: EARLY10 | Landing UTM: utm_source=partner&utm_medium=blast&promo_id=P789"

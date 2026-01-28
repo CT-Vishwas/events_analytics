@@ -1,0 +1,466 @@
+[
+  {
+    "attendee_email": "user0@example.com",
+    "company": "Contoso",
+    "role": "Student",
+    "city": "Pune",
+    "industry": "IT",
+    "notes": "Reached via partner. Promo=STUDENT15; Phone:+91-7564409423; UTM=utm_source=email&utm_campaign=Q1_ML"
+  },
+  {
+    "attendee_email": "user1@example.com",
+    "company": "Northwind",
+    "role": "Engineer",
+    "city": "Mysuru",
+    "industry": "Education",
+    "notes": "Reached via email. Promo=STUDENT15; Phone:+91-9279993598; UTM=utm_source=partner&utm_campaign=Q1_ML"
+  },
+  {
+    "attendee_email": "user2@example.com",
+    "company": "Fabrikam",
+    "role": "Student",
+    "city": "Pune",
+    "industry": "Finance",
+    "notes": "Reached via partner. Promo=STUDENT15; Phone:+91-7494650131; UTM=utm_source=social&utm_campaign=Q1_PY"
+  },
+  {
+    "attendee_email": "user3@example.com",
+    "company": "Fabrikam",
+    "role": "Data Analyst",
+    "city": "Pune",
+    "industry": "Finance",
+    "notes": "Reached via email. Promo=NA; Phone:+91-7059780189; UTM=utm_source=social&utm_campaign=Q1_DW"
+  },
+  {
+    "attendee_email": "user4@example.com",
+    "company": "Contoso",
+    "role": "Engineer",
+    "city": "Hyderabad",
+    "industry": "Finance",
+    "notes": "Reached via partner. Promo=NA; Phone:+91-9742548209; UTM=utm_source=social&utm_campaign=Q1_PY"
+  },
+  {
+    "attendee_email": "user5@example.com",
+    "company": "Fabrikam",
+    "role": "Engineer",
+    "city": "Bengaluru",
+    "industry": "Finance",
+    "notes": "Reached via partner. Promo=NY25; Phone:+91-9781645815; UTM=utm_source=email&utm_campaign=Q1_DW"
+  },
+  {
+    "attendee_email": "user6@example.com",
+    "company": "Tailspin",
+    "role": "Student",
+    "city": "Pune",
+    "industry": "IT",
+    "notes": "Reached via email. Promo=EARLY10; Phone:+91-7159824875; UTM=utm_source=social&utm_campaign=Q1_ML"
+  },
+  {
+    "attendee_email": "user7@example.com",
+    "company": "Contoso",
+    "role": "Developer",
+    "city": "Mysuru",
+    "industry": "Education",
+    "notes": "Reached via social. Promo=NA; Phone:+91-8593482331; UTM=utm_source=partner&utm_campaign=Q1_DW"
+  },
+  {
+    "attendee_email": "user8@example.com",
+    "company": "Tailspin",
+    "role": "Data Analyst",
+    "city": "Pune",
+    "industry": "IT",
+    "notes": "Reached via social. Promo=NA; Phone:+91-8201474778; UTM=utm_source=email&utm_campaign=Q1_DW"
+  },
+  {
+    "attendee_email": "user9@example.com",
+    "company": "Northwind",
+    "role": "Data Analyst",
+    "city": "Pune",
+    "industry": "Manufacturing",
+    "notes": "Reached via email. Promo=STUDENT15; Phone:+91-7426724858; UTM=utm_source=partner&utm_campaign=Q1_ML"
+  },
+  {
+    "attendee_email": "user10@example.com",
+    "company": "Northwind",
+    "role": "Developer",
+    "city": "Pune",
+    "industry": "Finance",
+    "notes": "Reached via email. Promo=EARLY10; Phone:+91-8952996248; UTM=utm_source=email&utm_campaign=Q1_DW"
+  },
+  {
+    "attendee_email": "user11@example.com",
+    "company": "Fabrikam",
+    "role": "Developer",
+    "city": "Bengaluru",
+    "industry": "Finance",
+    "notes": "Reached via email. Promo=NY25; Phone:+91-9424843951; UTM=utm_source=email&utm_campaign=Q1_PY"
+  },
+  {
+    "attendee_email": "user12@example.com",
+    "company": "Fabrikam",
+    "role": "Data Analyst",
+    "city": "Mysuru",
+    "industry": "Finance",
+    "notes": "Reached via email. Promo=EARLY10; Phone:+91-8190886387; UTM=utm_source=email&utm_campaign=Q1_PY"
+  },
+  {
+    "attendee_email": "user13@example.com",
+    "company": "Northwind",
+    "role": "Data Analyst",
+    "city": "Bengaluru",
+    "industry": "IT",
+    "notes": "Reached via email. Promo=EARLY10; Phone:+91-8538638860; UTM=utm_source=email&utm_campaign=Q1_DW"
+  },
+  {
+    "attendee_email": "user14@example.com",
+    "company": "Northwind",
+    "role": "Developer",
+    "city": "Mysuru",
+    "industry": "Finance",
+    "notes": "Reached via email. Promo=NY25; Phone:+91-8808011838; UTM=utm_source=partner&utm_campaign=Q1_PY"
+  },
+  {
+    "attendee_email": "user15@example.com",
+    "company": "Contoso",
+    "role": "Engineer",
+    "city": "Pune",
+    "industry": "Finance",
+    "notes": "Reached via partner. Promo=EARLY10; Phone:+91-8941348507; UTM=utm_source=partner&utm_campaign=Q1_PY"
+  },
+  {
+    "attendee_email": "user16@example.com",
+    "company": "Contoso",
+    "role": "Student",
+    "city": "Pune",
+    "industry": "IT",
+    "notes": "Reached via email. Promo=NA; Phone:+91-8724932977; UTM=utm_source=social&utm_campaign=Q1_DW"
+  },
+  {
+    "attendee_email": "user17@example.com",
+    "company": "Contoso",
+    "role": "Engineer",
+    "city": "Pune",
+    "industry": "IT",
+    "notes": "Reached via email. Promo=STUDENT15; Phone:+91-9612617557; UTM=utm_source=email&utm_campaign=Q1_PY"
+  },
+  {
+    "attendee_email": "user18@example.com",
+    "company": "Fabrikam",
+    "role": "Student",
+    "city": "Hyderabad",
+    "industry": "Manufacturing",
+    "notes": "Reached via partner. Promo=STUDENT15; Phone:+91-8948692883; UTM=utm_source=partner&utm_campaign=Q1_DW"
+  },
+  {
+    "attendee_email": "user19@example.com",
+    "company": "Tailspin",
+    "role": "Developer",
+    "city": "Bengaluru",
+    "industry": "Education",
+    "notes": "Reached via social. Promo=NA; Phone:+91-7981372436; UTM=utm_source=social&utm_campaign=Q1_ML"
+  },
+  {
+    "attendee_email": "user20@example.com",
+    "company": "Tailspin",
+    "role": "Engineer",
+    "city": "Pune",
+    "industry": "IT",
+    "notes": "Reached via social. Promo=NA; Phone:+91-8342278523; UTM=utm_source=partner&utm_campaign=Q1_ML"
+  },
+  {
+    "attendee_email": "user21@example.com",
+    "company": "Northwind",
+    "role": "Data Analyst",
+    "city": "Pune",
+    "industry": "IT",
+    "notes": "Reached via email. Promo=EARLY10; Phone:+91-7400420225; UTM=utm_source=social&utm_campaign=Q1_PY"
+  },
+  {
+    "attendee_email": "user22@example.com",
+    "company": "Northwind",
+    "role": "Data Analyst",
+    "city": "Bengaluru",
+    "industry": "Finance",
+    "notes": "Reached via partner. Promo=EARLY10; Phone:+91-8764409657; UTM=utm_source=social&utm_campaign=Q1_DW"
+  },
+  {
+    "attendee_email": "user23@example.com",
+    "company": "Tailspin",
+    "role": "Developer",
+    "city": "Hyderabad",
+    "industry": "Finance",
+    "notes": "Reached via social. Promo=EARLY10; Phone:+91-9482141132; UTM=utm_source=partner&utm_campaign=Q1_PY"
+  },
+  {
+    "attendee_email": "user24@example.com",
+    "company": "Fabrikam",
+    "role": "Engineer",
+    "city": "Mysuru",
+    "industry": "IT",
+    "notes": "Reached via social. Promo=STUDENT15; Phone:+91-7493428666; UTM=utm_source=social&utm_campaign=Q1_DW"
+  },
+  {
+    "attendee_email": "user25@example.com",
+    "company": "Fabrikam",
+    "role": "Engineer",
+    "city": "Bengaluru",
+    "industry": "Finance",
+    "notes": "Reached via email. Promo=NY25; Phone:+91-8173687378; UTM=utm_source=partner&utm_campaign=Q1_ML"
+  },
+  {
+    "attendee_email": "user26@example.com",
+    "company": "Northwind",
+    "role": "Student",
+    "city": "Bengaluru",
+    "industry": "Education",
+    "notes": "Reached via email. Promo=NA; Phone:+91-7298867122; UTM=utm_source=email&utm_campaign=Q1_DW"
+  },
+  {
+    "attendee_email": "user27@example.com",
+    "company": "Contoso",
+    "role": "Developer",
+    "city": "Mysuru",
+    "industry": "Manufacturing",
+    "notes": "Reached via social. Promo=NA; Phone:+91-8464137110; UTM=utm_source=email&utm_campaign=Q1_ML"
+  },
+  {
+    "attendee_email": "user28@example.com",
+    "company": "Northwind",
+    "role": "Student",
+    "city": "Bengaluru",
+    "industry": "IT",
+    "notes": "Reached via email. Promo=NY25; Phone:+91-9653594796; UTM=utm_source=email&utm_campaign=Q1_DW"
+  },
+  {
+    "attendee_email": "user29@example.com",
+    "company": "Contoso",
+    "role": "Student",
+    "city": "Pune",
+    "industry": "Manufacturing",
+    "notes": "Reached via social. Promo=NA; Phone:+91-8778905619; UTM=utm_source=social&utm_campaign=Q1_PY"
+  },
+  {
+    "attendee_email": "user30@example.com",
+    "company": "Contoso",
+    "role": "Student",
+    "city": "Pune",
+    "industry": "IT",
+    "notes": "Reached via social. Promo=NA; Phone:+91-9263164755; UTM=utm_source=partner&utm_campaign=Q1_ML"
+  },
+  {
+    "attendee_email": "user31@example.com",
+    "company": "Contoso",
+    "role": "Data Analyst",
+    "city": "Pune",
+    "industry": "IT",
+    "notes": "Reached via email. Promo=NY25; Phone:+91-8294586283; UTM=utm_source=email&utm_campaign=Q1_PY"
+  },
+  {
+    "attendee_email": "user32@example.com",
+    "company": "Northwind",
+    "role": "Student",
+    "city": "Hyderabad",
+    "industry": "IT",
+    "notes": "Reached via email. Promo=NA; Phone:+91-8849649210; UTM=utm_source=email&utm_campaign=Q1_PY"
+  },
+  {
+    "attendee_email": "user33@example.com",
+    "company": "Tailspin",
+    "role": "Data Analyst",
+    "city": "Hyderabad",
+    "industry": "IT",
+    "notes": "Reached via social. Promo=EARLY10; Phone:+91-8873548915; UTM=utm_source=email&utm_campaign=Q1_ML"
+  },
+  {
+    "attendee_email": "user34@example.com",
+    "company": "Contoso",
+    "role": "Student",
+    "city": "Pune",
+    "industry": "Manufacturing",
+    "notes": "Reached via partner. Promo=NA; Phone:+91-8243458354; UTM=utm_source=email&utm_campaign=Q1_ML"
+  },
+  {
+    "attendee_email": "user35@example.com",
+    "company": "Contoso",
+    "role": "Student",
+    "city": "Mysuru",
+    "industry": "Manufacturing",
+    "notes": "Reached via partner. Promo=STUDENT15; Phone:+91-7378514962; UTM=utm_source=social&utm_campaign=Q1_PY"
+  },
+  {
+    "attendee_email": "user36@example.com",
+    "company": "Fabrikam",
+    "role": "Engineer",
+    "city": "Pune",
+    "industry": "IT",
+    "notes": "Reached via social. Promo=STUDENT15; Phone:+91-8458198451; UTM=utm_source=email&utm_campaign=Q1_ML"
+  },
+  {
+    "attendee_email": "user37@example.com",
+    "company": "Fabrikam",
+    "role": "Developer",
+    "city": "Bengaluru",
+    "industry": "Education",
+    "notes": "Reached via social. Promo=STUDENT15; Phone:+91-9772156452; UTM=utm_source=email&utm_campaign=Q1_PY"
+  },
+  {
+    "attendee_email": "user38@example.com",
+    "company": "Contoso",
+    "role": "Data Analyst",
+    "city": "Hyderabad",
+    "industry": "Education",
+    "notes": "Reached via email. Promo=NY25; Phone:+91-9815389788; UTM=utm_source=email&utm_campaign=Q1_PY"
+  },
+  {
+    "attendee_email": "user39@example.com",
+    "company": "Tailspin",
+    "role": "Engineer",
+    "city": "Pune",
+    "industry": "Finance",
+    "notes": "Reached via partner. Promo=STUDENT15; Phone:+91-7648357091; UTM=utm_source=social&utm_campaign=Q1_PY"
+  },
+  {
+    "attendee_email": "user40@example.com",
+    "company": "Tailspin",
+    "role": "Engineer",
+    "city": "Hyderabad",
+    "industry": "Finance",
+    "notes": "Reached via partner. Promo=EARLY10; Phone:+91-8511580323; UTM=utm_source=partner&utm_campaign=Q1_PY"
+  },
+  {
+    "attendee_email": "user41@example.com",
+    "company": "Northwind",
+    "role": "Engineer",
+    "city": "Pune",
+    "industry": "IT",
+    "notes": "Reached via email. Promo=STUDENT15; Phone:+91-8232986477; UTM=utm_source=email&utm_campaign=Q1_DW"
+  },
+  {
+    "attendee_email": "user42@example.com",
+    "company": "Contoso",
+    "role": "Engineer",
+    "city": "Pune",
+    "industry": "IT",
+    "notes": "Reached via social. Promo=NY25; Phone:+91-8380946943; UTM=utm_source=partner&utm_campaign=Q1_ML"
+  },
+  {
+    "attendee_email": "user43@example.com",
+    "company": "Fabrikam",
+    "role": "Developer",
+    "city": "Pune",
+    "industry": "IT",
+    "notes": "Reached via social. Promo=EARLY10; Phone:+91-9167021467; UTM=utm_source=partner&utm_campaign=Q1_PY"
+  },
+  {
+    "attendee_email": "user44@example.com",
+    "company": "Contoso",
+    "role": "Data Analyst",
+    "city": "Pune",
+    "industry": "Manufacturing",
+    "notes": "Reached via partner. Promo=NY25; Phone:+91-8562929828; UTM=utm_source=social&utm_campaign=Q1_ML"
+  },
+  {
+    "attendee_email": "user45@example.com",
+    "company": "Tailspin",
+    "role": "Engineer",
+    "city": "Hyderabad",
+    "industry": "IT",
+    "notes": "Reached via partner. Promo=STUDENT15; Phone:+91-7283089268; UTM=utm_source=social&utm_campaign=Q1_PY"
+  },
+  {
+    "attendee_email": "user46@example.com",
+    "company": "Tailspin",
+    "role": "Student",
+    "city": "Hyderabad",
+    "industry": "Education",
+    "notes": "Reached via social. Promo=EARLY10; Phone:+91-9502847163; UTM=utm_source=partner&utm_campaign=Q1_PY"
+  },
+  {
+    "attendee_email": "user47@example.com",
+    "company": "Northwind",
+    "role": "Student",
+    "city": "Pune",
+    "industry": "Education",
+    "notes": "Reached via partner. Promo=EARLY10; Phone:+91-8329644079; UTM=utm_source=partner&utm_campaign=Q1_ML"
+  },
+  {
+    "attendee_email": "user48@example.com",
+    "company": "Northwind",
+    "role": "Data Analyst",
+    "city": "Bengaluru",
+    "industry": "Manufacturing",
+    "notes": "Reached via partner. Promo=STUDENT15; Phone:+91-7078299575; UTM=utm_source=social&utm_campaign=Q1_ML"
+  },
+  {
+    "attendee_email": "user49@example.com",
+    "company": "Fabrikam",
+    "role": "Data Analyst",
+    "city": "Hyderabad",
+    "industry": "Manufacturing",
+    "notes": "Reached via email. Promo=NY25; Phone:+91-7590838716; UTM=utm_source=email&utm_campaign=Q1_PY"
+  },
+  {
+    "attendee_email": "user50@example.com",
+    "company": "Northwind",
+    "role": "Developer",
+    "city": "Bengaluru",
+    "industry": "Finance",
+    "notes": "Reached via partner. Promo=NY25; Phone:+91-9565153945; UTM=utm_source=social&utm_campaign=Q1_PY"
+  },
+  {
+    "attendee_email": "user51@example.com",
+    "company": "Fabrikam",
+    "role": "Data Analyst",
+    "city": "Mysuru",
+    "industry": "Manufacturing",
+    "notes": "Reached via email. Promo=NA; Phone:+91-8564654057; UTM=utm_source=partner&utm_campaign=Q1_DW"
+  },
+  {
+    "attendee_email": "user52@example.com",
+    "company": "Fabrikam",
+    "role": "Engineer",
+    "city": "Hyderabad",
+    "industry": "Manufacturing",
+    "notes": "Reached via email. Promo=NY25; Phone:+91-8329154472; UTM=utm_source=social&utm_campaign=Q1_PY"
+  },
+  {
+    "attendee_email": "user53@example.com",
+    "company": "Northwind",
+    "role": "Engineer",
+    "city": "Pune",
+    "industry": "Finance",
+    "notes": "Reached via social. Promo=NA; Phone:+91-7696034559; UTM=utm_source=email&utm_campaign=Q1_DW"
+  },
+  {
+    "attendee_email": "user54@example.com",
+    "company": "Fabrikam",
+    "role": "Student",
+    "city": "Bengaluru",
+    "industry": "Manufacturing",
+    "notes": "Reached via social. Promo=EARLY10; Phone:+91-9215813941; UTM=utm_source=email&utm_campaign=Q1_ML"
+  },
+  {
+    "attendee_email": "user55@example.com",
+    "company": "Contoso",
+    "role": "Data Analyst",
+    "city": "Hyderabad",
+    "industry": "Manufacturing",
+    "notes": "Reached via partner. Promo=NY25; Phone:+91-8878930355; UTM=utm_source=email&utm_campaign=Q1_PY"
+  },
+  {
+    "attendee_email": "user56@example.com",
+    "company": "Tailspin",
+    "role": "Student",
+    "city": "Bengaluru",
+    "industry": "Manufacturing",
+    "notes": "Reached via email. Promo=NA; Phone:+91-9156104136; UTM=utm_source=social&utm_campaign=Q1_PY"
+  },
+  {
+    "attendee_email": "user57@example.com",
+    "company": "Tailspin",
+    "role": "Developer",
+    "city": "Hyderabad",
+    "industry": "Education",
+    "notes": "Reached via email. Promo=STUDENT15; Phone:+91-7425558776; UTM=utm_source=partner&utm_campaign=Q1_DW"
+  }
+]

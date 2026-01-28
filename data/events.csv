@@ -1,0 +1,13 @@
+event_id,topic,city,venue_capacity,scheduled_date_time,instructor_id
+E001,Python OOP,Bengaluru,50,2026-01-13 10:00,I001
+E002,Data Wrangling,Bengaluru,30,2026-01-16 14:00,I001
+E003,Python OOP,Bengaluru,40,2026-01-19 10:00,I003
+E004,Python OOP,Mysuru,60,2026-01-22 10:00,I002
+E005,Machine Learning Essentials,Bengaluru,40,2026-01-25 14:00,I002
+E006,Machine Learning Essentials,Mysuru,40,2026-01-28 11:00,I001
+E007,Python OOP,Pune,30,2026-01-31 11:00,I002
+E008,Machine Learning Essentials,Bengaluru,60,2026-02-03 09:00,I002
+E009,Python OOP,Hyderabad,50,2026-02-06 10:00,I003
+E010,Python OOP,Bengaluru,40,2026-02-09 11:00,I001
+E011,Data Wrangling,Bengaluru,60,2026-02-12 11:00,I002
+E012,Machine Learning Essentials,Mysuru,50,2026-02-15 11:00,I001
