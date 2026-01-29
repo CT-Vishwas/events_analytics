@@ -49,12 +49,12 @@ def load_logs():
     logs_df = pd.DataFrame(logs_records)
     return logs_df
 
-def transform_data():
-    # Example: add event duration, encode event type, etc.
-    events_df = load_events()
-    events_df = transformers.add_event_duration(events_df)
-    # Add more transformations as needed
-    return events_df
+# def transform_data():
+#     # Example: add event duration, encode event type, etc.
+#     events_df = load_events()
+#     events_df = transformers.add_event_duration(events_df)
+#     # Add more transformations as needed
+#     return events_df
 
 def load_to_db(df: pd.DataFrame, table_name: str):
     db = DatabaseConnection().get_connection()
@@ -71,7 +71,7 @@ def main():
     logs_df = load_logs()
 
     # Transform (example: add event duration)
-    events_df = transformers.add_event_duration(events_df)
+    # events_df = transformers.add_event_duration(events_df)
 
     # Load to DB
     load_to_db(attendees_df, 'attendees')
