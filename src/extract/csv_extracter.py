@@ -1,8 +1,11 @@
 from pandas import DataFrame, read_csv
 from pathlib import Path
+from src.utils.logger import get_logger
 
 CURRENT_DIR = Path(__file__).resolve()
 PROJECT_ROOT = CURRENT_DIR.parents[2]
+
+logger = get_logger(__name__)
 
 def extract(filepath: Path) -> DataFrame:
     """
@@ -16,9 +19,11 @@ def extract(filepath: Path) -> DataFrame:
 
     try:
         if not filepath.exists():
+            logger.error(f"The file {filepath} does not exist.")
             raise FileNotFoundError(f"The file {filepath} does not exist.")
         
         df = read_csv(filepath)
+        logger.info(f"Successfully extracted data from {filepath}")
         return df
     except Exception as e:
         print(f"Error reading CSV file: {e}")
