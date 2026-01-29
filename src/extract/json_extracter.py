@@ -7,7 +7,7 @@ PROJECT_ROOT = CURRENT_DIR.parents[2]
 
 logger = get_logger(__name__)
 
-def extract(filepath: Path) -> DataFrame:
+def extract(filepath: Path) -> dict:
     """
     Extracts data from a JSON file.
 
@@ -24,7 +24,7 @@ def extract(filepath: Path) -> DataFrame:
 
         df = read_json(filepath)
         logger.info(f"Successfully extracted data from {filepath}")
-        return df
+        return df.to_dict(orient="records")
     except Exception as e:
         print(f"Error reading JSON file: {e}")
         return DataFrame()
