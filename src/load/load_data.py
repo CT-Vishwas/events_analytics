@@ -61,6 +61,11 @@ def load_to_db(df: pd.DataFrame, table_name: str):
     df.to_sql(table_name, db, if_exists='replace', index=False)
     logging.info(f"Loaded {len(df)} records into table '{table_name}'")
 
+def read_from_db(table_name: str)-> pd.DataFrame:
+    db = DatabaseConnection().get_connection()
+    df = pd.read_sql(f'SELECT * FROM {table_name}',con=db)
+    return df
+
 def main():
     # Extract & Validate
     attendees_df = load_attendees()
